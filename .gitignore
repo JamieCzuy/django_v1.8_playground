@@ -1,3 +1,6 @@
+# VIM swp files:
+*.swp
+
 # SQLite Database Files
 db.sqlite3
 
